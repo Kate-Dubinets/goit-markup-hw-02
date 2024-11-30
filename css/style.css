@@ -1,5 +1,7 @@
 body{
     font-family: "Roboto", sans-serif;
+    color: #434455;
+    color:#FFFFFF;
 }
 
 a {
@@ -28,6 +30,7 @@ button {cursor: pointer;}
     color: #404bbf;
 }
 .logo{
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
@@ -53,7 +56,9 @@ button {cursor: pointer;}
     color: #404bbf;
 }
 
-
+.address{
+    font-style: normal;
+}
 
 
 
@@ -67,6 +72,7 @@ button {cursor: pointer;}
 
 .effect-sol{font-family: "Roboto", sans-serif;
     font-weight: 700;
+    text-align: center;
     line-height: 1.07;
     font-size: 56px;
     letter-spacing: 0.02em;
@@ -105,8 +111,24 @@ font-weight: 500;
 
 /* #region section three */
 
+
+.our-team{
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.sec-list{
+    background-color: #FFFFFF;
+}
+
 .section-three{
     background: #f4f4fd;
+
 }
 
 .name-team{
@@ -125,6 +147,34 @@ font-weight: 500;
         color: #434455;
 }
 /* #endregion section three*/
+
+/*  #region section 4*/
+.our-portfolio{
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.h-four{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+
+
+
+
+
+
+/* #endregion section 4*/
 
 /* #region footer */
 .footer{
